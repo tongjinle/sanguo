@@ -1,0 +1,24 @@
+1 处理下所有nextRound事件
+	有的监听nextRound事件,是需要buff的owner是当前回合的行棋者
+	fixed : 2015.10.31 16.17
+2 将chess.getDamage改成chess.get("damage")
+	chess.setDamage - > buff.set("damage",value)
+	同理:chess.getHp -> chess.get("hp")
+	fixed : 2015.10.31 16.45 
+3 完成buffUtil 
+	fixed
+4 完成skillUtil
+	fixed
+5 完成tool/countInject.js,统计所有的"注入"
+	fixed 2015.11.02 00.15
+
+6 完成chess基本结构,完成defineGet,defineSet,defineAcessDefault
+	->	完成define
+	->	完成metaData数据生成工具的迁移
+7 完成skill基本结构
+	fixed
+8 完成buff基本结构
+	fixed
+9 完成bag基本结构
+	fixed
+10 编写combat的test

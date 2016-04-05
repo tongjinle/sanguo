@@ -1,0 +1,302 @@
+[
+	{
+		"name": "wuxiansiweiguanghuan",
+		"cn": "无限思维光环",
+		"maxCd": -1,
+		"desc": "每个回合让周围1格内的友军棋子回复100MP"
+	},
+	{
+		"name": "zhanshen",
+		"cn": "战神",
+		"maxCd": -1,
+		"desc": "每个回合获得10点MP,并且在对敌方棋子造成伤害后,获得10%伤害的MP"
+	},
+	{
+		"name": "lumang",
+		"cn": "鲁莽",
+		"maxCd": 2,
+		"desc": "暴击概率提升到100%;SPEED+40"
+	},
+	{
+		"name": "zhisi",
+		"cn": "致死",
+		"maxCd": 5,
+		"desc": "接受治疗的时候，治疗效果减去*50%"
+	},
+	{
+		"name": "chuanci",
+		"cn": "穿刺",
+		"maxCd": 3,
+		"desc": "受到伤害，额外+50点伤害"
+	},
+	{
+		"name": "huichun",
+		"cn": "回春",
+		"maxCd": 3,
+		"desc": "每个回合恢复50HP"
+	},
+	{
+		"name": "chunfeng",
+		"cn": "春风",
+		"maxCd": 5,
+		"desc": "每个回合恢复100hp+5%最大生命值"
+	},
+	{
+		"name": "cipo",
+		"cn": "刺破",
+		"maxCd": -1,
+		"desc": "每个回合减少5mp+2%最大mp"
+	},
+	{
+		"name": "dongmian",
+		"cn": "冬眠",
+		"maxCd": 5,
+		"desc": "进入冬眠的无敌状态，不能移动和施放技能，每个回合回复20%的最大生命值，一旦hp回满，则解除冬眠状态"
+	},
+	{
+		"name": "liuxie",
+		"cn": "流血",
+		"maxCd": 3,
+		"desc": "每个回合减少5%最大hp"
+	},
+	{
+		"name": "dongjie",
+		"cn": "冻结",
+		"maxCd": 2,
+		"desc": "不能移动，但是可以使用技能"
+	},
+	{
+		"name": "chihuan",
+		"cn": "迟缓",
+		"maxCd": 2,
+		"desc": "SPEED-20"
+	},
+	{
+		"name": "dianran",
+		"cn": "点燃",
+		"maxCd": -1,
+		"desc": "每个回合减少2%最大hp，减少3%最大mp"
+	},
+	{
+		"name": "jiaohen",
+		"cn": "焦痕",
+		"maxCd": -1,
+		"desc": "每次移动，减少（3%*移动格子数）的当前最大hp"
+	},
+	{
+		"name": "chuisizhengzha",
+		"cn": "垂死挣扎",
+		"maxCd": 4,
+		"desc": "buff消失的时候，目标死亡"
+	},
+	{
+		"name": "yuanxing",
+		"cn": "远行",
+		"maxCd": 3,
+		"desc": "目标的power+1"
+	},
+	{
+		"name": "chidun",
+		"cn": "迟钝",
+		"maxCd": 1,
+		"desc": "目标的power-1"
+	},
+	{
+		"name": "laolei",
+		"cn": "劳累",
+		"maxCd": 2,
+		"desc": "每个回合回复25%的最大mp和4%的最大hp"
+	},
+	{
+		"name": "weituzifuchou",
+		"cn": "为兔子复仇",
+		"maxCd": -1,
+		"desc": "damage+30%，power+1"
+	},
+	{
+		"name": "mowangjianglin",
+		"cn": "魔王降临",
+		"maxCd": 1,
+		"desc": "生命值为min（最大hp5%，当前生命值），buff消失后，恢复buff前生命值"
+	},
+	{
+		"name": "poshangfeng",
+		"cn": "破伤风",
+		"maxCd": -1,
+		"desc": "收到伤害+25%"
+	},
+	{
+		"name": "mabi",
+		"cn": "麻痹",
+		"maxCd": -1,
+		"desc": "power-1"
+	},
+	{
+		"name": "hualei",
+		"cn": "花蕾",
+		"maxCd": 1,
+		"desc": "1个回合之后，如果没有收到伤害，则恢复周围4格所有友军棋子30%最大hp+50%最大mp"
+	},
+	{
+		"name": "xushi",
+		"cn": "蓄势",
+		"maxCd": 2,
+		"desc": "power+2，damage*150%"
+	},
+	{
+		"name": "fengkuang",
+		"cn": "疯狂",
+		"maxCd": 3,
+		"desc": "每次丢失当前最大hp的10%,但是能增加15%的damage"
+	},
+	{
+		"name": "chanrao",
+		"cn": "缠绕",
+		"maxCd": 2,
+		"desc": "目标可以使用技能,但是不能移动"
+	},
+	{
+		"name": "huochong",
+		"cn": "火种",
+		"maxCd": -1,
+		"desc": "所有收到的伤害+10%"
+	},
+	{
+		"name": "jingdian",
+		"cn": "静电",
+		"maxCd": 1,
+		"desc": "speed-20,damage-15%，power-1"
+	},
+	{
+		"name": "dingshizhadan",
+		"cn": "定时炸弹",
+		"maxCd": 3,
+		"desc": "buff消失的时候，对目标和目标周围造成150%的伤害"
+	},
+	{
+		"name": "tuijinqi",
+		"cn": "推进器",
+		"maxCd": -1,
+		"desc": "轮到自己的时候，有35%的可能，发现推进器起了作用，因此得到power+3的能力（上一次如果起了作用，则本回合不可能起作用）"
+	},
+	{
+		"name": "chire",
+		"cn": "炽热",
+		"maxCd": -1,
+		"desc": "speed+20，damage+10%"
+	},
+	{
+		"name": "emo",
+		"cn": "恶魔",
+		"maxCd": 3,
+		"desc": "damage*300%"
+	},
+	{
+		"name": "kongbuhoujiao",
+		"cn": "恐怖吼叫",
+		"maxCd": -1,
+		"desc": "可以叠加，每次power-2，目标power不会低于2"
+	},
+	{
+		"name": "xiaoxinyiyi",
+		"cn": "小心翼翼",
+		"maxCd": 2,
+		"desc": "power-2，但是收到攻击的时候，可以减免200点伤害"
+	},
+	{
+		"name": "mianyipopi",
+		"cn": "免疫破坏",
+		"maxCd": 4,
+		"desc": "收到攻击，会额外收到300%的伤害"
+	},
+	{
+		"name": "jingji",
+		"cn": "荆棘",
+		"maxCd": 3,
+		"desc": "攻击者受到65%的反弹伤害"
+	},
+	{
+		"name": "chanraozuzhou",
+		"cn": "缠绕诅咒",
+		"maxCd": 3,
+		"desc": "一旦被攻击,缠绕诅咒buff就会变成缠绕buff"
+	},
+	{
+		"name": "ningjing",
+		"cn": "宁静",
+		"maxCd": 5,
+		"desc": "buff的owner不能使用技能,也不能移动,每个回合回复所有己方棋子20%的最大hp,如果受到攻击,则buff被移除"
+	},
+	{
+		"name": "yuezhanyueyong",
+		"cn": "越战越勇",
+		"maxCd": -1,
+		"desc": "对敌人造成一次伤害，则在本场战斗提升12%的基础伤害，每次提升最高不能高过40点基础伤害，最多能提升5次"
+	},
+	{
+		"name": "banjia",
+		"cn": "板甲",
+		"maxCd": -1,
+		"desc": "减少50%的所有伤害"
+	},
+	{
+		"name": "tunshiguanghuan",
+		"cn": "吞噬光环",
+		"maxCd": -1,
+		"desc": "孟达2格内敌方棋子每个回合流失10mp+5%当前mp，最大不超过80mp"
+	},
+	{
+		"name": "falihudun",
+		"cn": "法力护盾",
+		"maxCd": -1,
+		"desc": "收到伤害的时候，消耗自己2点mp来抵抗1点伤害"
+	},
+	{
+		"name": "jinshen",
+		"cn": "谨慎",
+		"maxCd": -1,
+		"desc": "收到的最大伤害，不会超过300点"
+	},
+	{
+		"name": "xunjie",
+		"cn": "迅捷",
+		"maxCd": 3,
+		"desc": "SPEED+20"
+	},
+	{
+		"name": "qiangxiaoxunjie",
+		"cn": "强效迅捷",
+		"maxCd": -1,
+		"desc": "SPEED+20"
+	},
+	{
+		"name": "menglie",
+		"cn": "猛烈",
+		"maxCd": 3,
+		"desc": "POWER +1"
+	},
+	{
+		"name": "qiangxiaomenglie",
+		"cn": "强效猛烈",
+		"maxCd": -1,
+		"desc": "POWER +1"
+	},
+	{
+		"name": "yanshi",
+		"cn": "岩石",
+		"maxCd": 3,
+		"desc": "减免伤害10%"
+	},
+	{
+		"name": "qiangxiaoyanshi",
+		"cn": "强效岩石",
+		"maxCd": 8,
+		"desc": "减免伤害10%"
+	},
+	{
+		"name": "shenxiaoyanshi",
+		"cn": "神效岩石",
+		"maxCd": -1,
+		"desc": "减免伤害15%"
+	}
+]

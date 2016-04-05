@@ -1,0 +1,745 @@
+[
+	{
+		"name": "caocao",
+		"cn": "曹操",
+		"hp": 2500,
+		"mp": 800,
+		"power": 4,
+		"speed": 20,
+		"damage": 175,
+		"skills": [
+			"lengqiang",
+			"nianyahuoqiu",
+			"wuxiansiweiguanghuan",
+			"huoyanxinxing"
+		]
+	},
+	{
+		"name": "xuhuang",
+		"cn": "徐晃",
+		"hp": 3600,
+		"mp": 500,
+		"power": 5,
+		"speed": 10,
+		"damage": 220,
+		"skills": [
+			"kongxia",
+			"chuiji",
+			"wanfumodi",
+			"dongmian"
+		]
+	},
+	{
+		"name": "xunyu",
+		"cn": "荀彧",
+		"hp": 2000,
+		"mp": 1000,
+		"power": 2,
+		"speed": 15,
+		"damage": 120,
+		"skills": [
+			"jiqu",
+			"chunfeng",
+			"shengminghufu",
+			"gongsheng"
+		]
+	},
+	{
+		"name": "haozhao",
+		"cn": "郝昭",
+		"hp": 2100,
+		"mp": 500,
+		"power": 4,
+		"speed": 35,
+		"damage": 165,
+		"skills": [
+			"liuxie",
+			"zhongfeng",
+			"shangkousilie",
+			"chuanran"
+		]
+	},
+	{
+		"name": "zhangliao",
+		"cn": "张辽",
+		"hp": 3200,
+		"mp": 550,
+		"power": 5,
+		"speed": 10,
+		"damage": 240,
+		"skills": null
+	},
+	{
+		"name": "caoren",
+		"cn": "曹仁",
+		"hp": 3400,
+		"mp": 550,
+		"power": 4,
+		"speed": 15,
+		"damage": 180,
+		"skills": null
+	},
+	{
+		"name": "xuchu",
+		"cn": "许褚",
+		"hp": 4000,
+		"mp": 400,
+		"power": 2,
+		"speed": 10,
+		"damage": 200,
+		"skills": [
+			"dadisuilie",
+			"damuchui",
+			"tongganmamu",
+			"pangzi"
+		]
+	},
+	{
+		"name": "simayi",
+		"cn": "司马懿",
+		"hp": 1800,
+		"mp": 1200,
+		"power": 3,
+		"speed": 20,
+		"damage": 140,
+		"skills": [
+			"bingshuangxinxing",
+			"baofengxue",
+			"dongjie",
+			"lingdu"
+		]
+	},
+	{
+		"name": "liubei",
+		"cn": "刘备",
+		"hp": 2400,
+		"mp": 650,
+		"power": 3,
+		"speed": 25,
+		"damage": 150,
+		"skills": [
+			"longjia",
+			"jueduizhiyu",
+			"qingxing",
+			"huiyao"
+		]
+	},
+	{
+		"name": "zhugeliang",
+		"cn": "诸葛亮",
+		"hp": 1700,
+		"mp": 1500,
+		"power": 2,
+		"speed": 20,
+		"damage": 155,
+		"skills": [
+			"dianran",
+			"jiaohen",
+			"huoyanshouwei",
+			"chuisizhengzha"
+		]
+	},
+	{
+		"name": "weiyan",
+		"cn": "魏延",
+		"hp": 3200,
+		"mp": 750,
+		"power": 4,
+		"speed": 40,
+		"damage": 195,
+		"skills": [
+			"zhuaji",
+			"yuanzuzhili",
+			"fennu",
+			"lianji"
+		]
+	},
+	{
+		"name": "menghuo",
+		"cn": "孟获",
+		"hp": 4500,
+		"mp": 300,
+		"power": 2,
+		"speed": 10,
+		"damage": 200,
+		"skills": [
+			"laolei",
+			"xiangpi",
+			"zhanguguanghuan",
+			"guanhuai"
+		]
+	},
+	{
+		"name": "guanyu",
+		"cn": "关羽",
+		"hp": 3900,
+		"mp": 350,
+		"power": 5,
+		"speed": 15,
+		"damage": 270,
+		"skills": [
+			"wuju",
+			"shisirugui",
+			"changqu",
+			"junshen"
+		]
+	},
+	{
+		"name": "zhangfei",
+		"cn": "张飞",
+		"hp": 4000,
+		"mp": 320,
+		"power": 5,
+		"speed": 15,
+		"damage": 250,
+		"skills": [
+			"zhanzhengjianta",
+			"nuji",
+			"banjia",
+			"zhongjihuopao"
+		]
+	},
+	{
+		"name": "zhaoyun",
+		"cn": "赵云",
+		"hp": 3100,
+		"mp": 450,
+		"power": 4,
+		"speed": 35,
+		"damage": 245,
+		"skills": [
+			"tujin",
+			"xiezhu",
+			"miaosha",
+			"baizhanyusheng"
+		]
+	},
+	{
+		"name": "mizhu",
+		"cn": "糜竺",
+		"hp": 1500,
+		"mp": 850,
+		"power": 4,
+		"speed": 30,
+		"damage": 145,
+		"skills": [
+			"kenluobu",
+			"qiurao",
+			"shusong",
+			"zuihoudexisheng"
+		]
+	},
+	{
+		"name": "luxun",
+		"cn": "陆逊",
+		"hp": 1800,
+		"mp": 750,
+		"power": 5,
+		"speed": 25,
+		"damage": 165,
+		"skills": [
+			"zhushe",
+			"poshangfeng",
+			"mazuiji",
+			"yaoshizigezheng"
+		]
+	},
+	{
+		"name": "sunquan",
+		"cn": "孙权",
+		"hp": 2500,
+		"mp": 1000,
+		"power": 2,
+		"speed": 15,
+		"damage": 175,
+		"skills": [
+			"shequ",
+			"zhechong",
+			"jushou",
+			"shikong"
+		]
+	},
+	{
+		"name": "sunce",
+		"cn": "孙策",
+		"hp": 3900,
+		"mp": 500,
+		"power": 4,
+		"speed": 35,
+		"damage": 265,
+		"skills": [
+			"siyao",
+			"kongxia",
+			"shixie",
+			"haishen"
+		]
+	},
+	{
+		"name": "daqiao",
+		"cn": "大乔",
+		"hp": 2200,
+		"mp": 1000,
+		"power": 3,
+		"speed": 30,
+		"damage": 150,
+		"skills": [
+			"shengmingranshao",
+			"canlanguanghuan",
+			"fengxian",
+			"hualei"
+		]
+	},
+	{
+		"name": "zhouyu",
+		"cn": "周瑜",
+		"hp": 1900,
+		"mp": 1350,
+		"power": 3,
+		"speed": 25,
+		"damage": 175,
+		"skills": null
+	},
+	{
+		"name": "xiaoqiao",
+		"cn": "小乔",
+		"hp": 1400,
+		"mp": 800,
+		"power": 3,
+		"speed": 30,
+		"damage": 120,
+		"skills": [
+			"xingyunnushenguanghuan",
+			"huzhuguanghuan",
+			"mimang",
+			"chongsheng"
+		]
+	},
+	{
+		"name": "taishici",
+		"cn": "太史慈",
+		"hp": 3800,
+		"mp": 400,
+		"power": 3,
+		"speed": 20,
+		"damage": 215,
+		"skills": [
+			"bubuweiying",
+			"tuozhuai",
+			"hanlengguanghuan",
+			"daxueqiu"
+		]
+	},
+	{
+		"name": "ganning",
+		"cn": "甘宁",
+		"hp": 3300,
+		"mp": 320,
+		"power": 3,
+		"speed": 20,
+		"damage": 225,
+		"skills": [
+			"saoshe",
+			"juji",
+			"danyaobuchong",
+			"hezidan"
+		]
+	},
+	{
+		"name": "zhangxiu",
+		"cn": "张绣",
+		"hp": 1600,
+		"mp": 300,
+		"power": 3,
+		"speed": 30,
+		"damage": 120,
+		"skills": [
+			"qiangxing",
+			"cipo",
+			"dundi",
+			"fanci"
+		]
+	},
+	{
+		"name": "mengda",
+		"cn": "孟达",
+		"hp": 1400,
+		"mp": 500,
+		"power": 5,
+		"speed": 50,
+		"damage": 135,
+		"skills": [
+			"saorao",
+			"falitunshiguanghuan",
+			"falihudun",
+			"jinshen"
+		]
+	},
+	{
+		"name": "dongzhuo",
+		"cn": "董卓",
+		"hp": 3800,
+		"mp": 350,
+		"power": 2,
+		"speed": 25,
+		"damage": 200,
+		"skills": [
+			"zhendizhe",
+			"tulu",
+			"tongkuguanghuan",
+			"chirepifu"
+		]
+	},
+	{
+		"name": "machao",
+		"cn": "马超",
+		"hp": 3400,
+		"mp": 450,
+		"power": 5,
+		"speed": 40,
+		"damage": 250,
+		"skills": [
+			"tongji",
+			"taofa",
+			"kongbuhoujiao",
+			"wudi"
+		]
+	},
+	{
+		"name": "lumeng",
+		"cn": "吕蒙",
+		"hp": 2500,
+		"mp": 700,
+		"power": 4,
+		"speed": 30,
+		"damage": 175,
+		"skills": null
+	},
+	{
+		"name": "diaochan",
+		"cn": "貂蝉",
+		"hp": 1500,
+		"mp": 300,
+		"power": 4,
+		"speed": 35,
+		"damage": 125,
+		"skills": null
+	},
+	{
+		"name": "lubu",
+		"cn": "吕布",
+		"hp": 4000,
+		"mp": 450,
+		"power": 4,
+		"speed": 45,
+		"damage": 290,
+		"skills": [
+			"sheji",
+			"jianpo",
+			"chitu",
+			"mowangjianglin"
+		]
+	},
+	{
+		"name": "xushu",
+		"cn": "徐庶",
+		"hp": 1800,
+		"mp": 1000,
+		"power": 3,
+		"speed": 25,
+		"damage": 165,
+		"skills": null
+	},
+	{
+		"name": "huangzhong",
+		"cn": "黄忠",
+		"hp": 3200,
+		"mp": 350,
+		"power": 4,
+		"speed": 35,
+		"damage": 240,
+		"skills": null
+	},
+	{
+		"name": "chenwu",
+		"cn": "陈武",
+		"hp": 1900,
+		"mp": 250,
+		"power": 4,
+		"speed": 20,
+		"damage": 185,
+		"skills": null
+	},
+	{
+		"name": "pangtong",
+		"cn": "庞统",
+		"hp": 1600,
+		"mp": 1100,
+		"power": 3,
+		"speed": 25,
+		"damage": 145,
+		"skills": [
+			"conglinzhanshi",
+			"jingji",
+			"chanraozuzhou",
+			"ningjing"
+		]
+	},
+	{
+		"name": "muludawang",
+		"cn": "木鹿大王",
+		"hp": 3000,
+		"mp": 400,
+		"power": 2,
+		"speed": 20,
+		"damage": 220,
+		"skills": [
+			"xiaoxinyiyi",
+			"chongzhuang",
+			"yaozhu",
+			"wudu"
+		]
+	},
+	{
+		"name": "wuju",
+		"cn": "吴巨",
+		"hp": 1200,
+		"mp": 200,
+		"power": 5,
+		"speed": 50,
+		"damage": 75,
+		"skills": [
+			"lianmin",
+			"hunluanyaoshui",
+			"yubei",
+			"zuihoudeyiyan"
+		]
+	},
+	{
+		"name": "caozhang",
+		"cn": "曹彰",
+		"hp": 350,
+		"mp": 140,
+		"power": 5,
+		"speed": 55,
+		"damage": 55,
+		"skills": [
+			"xushidaifa",
+			"tupo",
+			"zhuiji",
+			"angyang"
+		]
+	},
+	{
+		"name": "lejin",
+		"cn": "乐进",
+		"hp": 280,
+		"mp": 150,
+		"power": 5,
+		"speed": 50,
+		"damage": 40,
+		"skills": [
+			"pianji",
+			"gujunfenzhan",
+			"zuihouyiji",
+			"jurenshashou"
+		]
+	},
+	{
+		"name": "lidian",
+		"cn": "李典",
+		"hp": 320,
+		"mp": 260,
+		"power": 3,
+		"speed": 35,
+		"damage": 40,
+		"skills": [
+			"weixingpaotai",
+			"dianji",
+			"gongchengtufang",
+			"shikongdaodan"
+		]
+	},
+	{
+		"name": "jiakui",
+		"cn": "贾逵",
+		"hp": 200,
+		"mp": 300,
+		"power": 3,
+		"speed": 45,
+		"damage": 30,
+		"skills": [
+			"jiaoxia",
+			"wuchi",
+			"fengkuangzhufu",
+			"muma"
+		]
+	},
+	{
+		"name": "dengai",
+		"cn": "邓艾",
+		"hp": 660,
+		"mp": 120,
+		"power": 2,
+		"speed": 25,
+		"damage": 60,
+		"skills": [
+			"qiangzhuang",
+			"chanraogongji",
+			"shengchangjisu",
+			"jianying"
+		]
+	},
+	{
+		"name": "zhonghui",
+		"cn": "钟会",
+		"hp": 210,
+		"mp": 320,
+		"power": 2,
+		"speed": 30,
+		"damage": 50,
+		"skills": [
+			"wanhuo",
+			"liaoyuan",
+			"xuzhangshengshi",
+			"jiling"
+		]
+	},
+	{
+		"name": "simashi",
+		"cn": "司马师",
+		"hp": 300,
+		"mp": 270,
+		"power": 3,
+		"speed": 30,
+		"damage": 40,
+		"skills": [
+			"dingshizhadan",
+			"zhihuan",
+			"houqinshebei",
+			"tuijinqi"
+		]
+	},
+	{
+		"name": "caozhen",
+		"cn": "曹真",
+		"hp": 290,
+		"mp": 150,
+		"power": 2,
+		"speed": 40,
+		"damage": 40,
+		"skills": [
+			"zhanyou",
+			"xiaomo",
+			"ruodianzhendui",
+			"enyuan"
+		]
+	},
+	{
+		"name": "zhaotong",
+		"cn": "赵统",
+		"hp": 400,
+		"mp": 120,
+		"power": 4,
+		"speed": 50,
+		"damage": 55,
+		"skills": [
+			"huixinyiji",
+			"xuligongji",
+			"zhenfenguanghuan",
+			"hengsaoqianjun"
+		]
+	},
+	{
+		"name": "guanxing",
+		"cn": "关兴",
+		"hp": 550,
+		"mp": 100,
+		"power": 4,
+		"speed": 55,
+		"damage": 60,
+		"skills": [
+			"zhanshen",
+			"chongfeng",
+			"lumang",
+			"zhisidaji"
+		]
+	},
+	{
+		"name": "huangquan",
+		"cn": "黄权",
+		"hp": 300,
+		"mp": 250,
+		"power": 2,
+		"speed": 40,
+		"damage": 30,
+		"skills": [
+			"huifuguanghuan",
+			"huichun",
+			"xiongyong",
+			"bugei"
+		]
+	},
+	{
+		"name": "sunshangxiang",
+		"cn": "孙尚香",
+		"hp": 380,
+		"mp": 200,
+		"power": 3,
+		"speed": 60,
+		"damage": 45,
+		"skills": [
+			"shandianjian",
+			"chuanci",
+			"shanshuo",
+			"yuezhanyueyong"
+		]
+	},
+	{
+		"name": "sanyanshe",
+		"cn": "三眼蛇",
+		"hp": 100,
+		"mp": 100,
+		"power": 3,
+		"speed": 20,
+		"damage": 20,
+		"skills": [
+			"yibangongji"
+		]
+	},
+	{
+		"name": "landenglong",
+		"cn": "懒灯笼",
+		"hp": 100,
+		"mp": 100,
+		"power": 3,
+		"speed": 5,
+		"damage": 20,
+		"skills": [
+			"yibangongji"
+		]
+	},
+	{
+		"name": "muzhuang",
+		"cn": "木桩",
+		"hp": 50000,
+		"mp": 100,
+		"power": 3,
+		"speed": 5,
+		"damage": 20,
+		"skills": [
+			"yibangongji"
+		]
+	},
+	{
+		"name": "yanshi",
+		"cn": "岩石",
+		"hp": 20000,
+		"mp": 100,
+		"power": 1,
+		"speed": 5,
+		"damage": 20,
+		"skills": [
+			"yibangongji"
+		]
+	}
+]

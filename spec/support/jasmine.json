@@ -1,0 +1,8 @@
+{
+  "spec_dir": "logic/sanguoData/test",
+  "spec_files": [
+    "[test]*.js"
+  ],
+  "helpers": [
+  ]
+}

@@ -1,0 +1,45 @@
+[
+	{
+		"name":"mapTest",
+		"defaultBoxType":"BOXTYPE_GRASS",
+		"width":12,
+		"height":8,
+		"specBoxes":{
+			"2-4":"BOXTYPE_STONE",
+			"2-7":"BOXTYPE_STONE",
+
+			"3-0":"BOXTYPE_STONE",
+			"3-1":"BOXTYPE_STONE",
+			"3-5":"BOXTYPE_WATER",
+			"3-6":"BOXTYPE_WATER",
+			"3-7":"BOXTYPE_WATER",
+
+			"4-5":"BOXTYPE_STONE",
+			"4-6":"BOXTYPE_STONE",
+
+			"5-3":"BOXTYPE_STONE",
+			"5-5":"BOXTYPE_STONE",
+
+			"6-0":"BOXTYPE_WATER",
+			"6-1":"BOXTYPE_WATER",
+			"6-3":"BOXTYPE_STONE",
+			"6-6":"BOXTYPE_WATER",
+			"6-7":"BOXTYPE_WATER",
+			
+			"7-1":"BOXTYPE_WATER",
+			"7-6":"BOXTYPE_WATER",
+			"7-7":"BOXTYPE_WATER",
+
+			"8-1":"BOXTYPE_WATER",
+			"8-6":"BOXTYPE_STONE",
+			
+			"9-4":"BOXTYPE_STONE",
+
+			"10-1":"BOXTYPE_WATER",
+			"10-2":"BOXTYPE_STONE",
+
+			"11-1":"BOXTYPE_WATER",
+			"11-2":"BOXTYPE_WATER"
+		}
+	}
+]
